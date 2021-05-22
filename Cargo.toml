@@ -1,0 +1,8 @@
+[package]
+name = "typesql"
+version = "0.1.0"
+authors = ["ivan770 <leshenko.ivan770@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+frunk = "0.3"
